@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "alfred", "runtimeExecutable": "perl", "runtimeArgs": ["app/alfred_server.pl"], "port": 8765 }
+  ]
+}

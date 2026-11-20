@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1C1B19">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Alfred">
+<title>Alfred</title>
+<link rel="stylesheet" href="/app.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">Alfred</div>
+  <nav class="tabs" role="tablist">
+    <a href="#brief" data-tab="brief">Brief</a>
+    <a href="#calendar" data-tab="calendar">Calendar</a>
+    <a href="#tasks" data-tab="tasks">Homework &amp; Tasks</a>
+    <a href="#inbox" data-tab="inbox">Inbox <span class="count" id="inbox-count"></span></a>
+    <a href="#projects" data-tab="projects">Projects</a>
+  </nav>
+  <div class="today" id="today-label"></div>
+</header>
+<main id="view"></main>
+<div class="toast" id="toast" role="status"></div>
+<script src="/app.js"></script>
+</body>
+</html>

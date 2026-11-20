@@ -1,0 +1,7 @@
+# Secrets: the Canvas feed link grants access to Ralph's Canvas calendar. Never commit it.
+config/canvas_feed_url.txt
+config/*.secret
+# Junk
+.DS_Store
+*.tmp*
+.claude/settings.local.json
