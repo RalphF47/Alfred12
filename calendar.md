@@ -6,7 +6,9 @@ Canvas assignments come straight from `canvas.md` (auto-synced). Don't copy them
 ## November 2026
 - 2026-11-20 (Fri) — Last day for yearbook portraits; transfer career workshop; CIBS info session (#optional)
 - 2026-11-21 (Sat) — Band show in Norman, OK (Fiji). Travel day: about 4.5–5 hrs each way (#band)
+- 2026-11-23 (Mon) 05:00 — Open registration for Spring 2027 begins (#registration)
 - 2026-11-24 (Tue) — ECON 410: finish Ch. 14 (#econ410)
+- 2026-11-24 (Tue) 15:00 — Academic advising with Omari Burton, Zoom, 30 min (#registration)
 - 2026-11-26 (Thu) — Thanksgiving, no class
 
 ## December 2026
